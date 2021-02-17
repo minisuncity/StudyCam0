@@ -1,1 +1,1 @@
-node_module 폴더 없음
+node_modules 폴더 없음
