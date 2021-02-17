@@ -1,0 +1,15 @@
+[2021-02-15T14:38:46.914] [DEBUG] application - debug
+[2021-02-15T14:38:46.916] [INFO] application - info
+[2021-02-15T14:38:46.916] [ERROR] application - error
+[2021-02-15T14:38:46.917] [FATAL] application - fatal
+[2021-02-15T14:38:47.313] [DEBUG] signaling - debug
+[2021-02-15T14:38:47.313] [INFO] signaling - info
+[2021-02-15T14:38:47.313] [ERROR] signaling - error
+[2021-02-15T14:38:47.313] [FATAL] signaling - fatal
+[2021-02-15T14:38:47.354] [INFO] normal - HTTP to HTTPS redirect app launched.
+[2021-02-15T14:38:47.354] [INFO] normal - ------------------------------ domainURL : https://localhost:443/
+[2021-02-15T14:38:47.354] [INFO] normal - socket.io is listening at:
+[2021-02-15T14:38:47.354] [INFO] normal - [31m%s[0m 	https://localhost:443/
+[2021-02-15T14:38:47.354] [INFO] normal - Your web-browser (HTML file) MUST set this line:
+[2021-02-15T14:38:47.354] [INFO] normal - [31m%s[0m connection.socketURL = "https://localhost:443/";
+[2021-02-15T14:38:47.354] [INFO] normal - ------------------------------
